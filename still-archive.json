@@ -11261,16 +11261,6 @@
           "review": null,
           "createdAt": "2026-09-08T13:36:25.310Z",
           "updatedAt": "2026-09-08T13:36:25.310Z"
-        },
-        {
-          "id": "ea06735e-a198-4a5b-9832-51791474de80",
-          "watchedDate": null,
-          "watchedYear": 2019,
-          "datePrecision": "year",
-          "viewingMethod": "cinema",
-          "review": null,
-          "createdAt": "2026-09-08T13:36:10.287Z",
-          "updatedAt": "2026-09-08T13:36:10.287Z"
         }
       ]
     },
