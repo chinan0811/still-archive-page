@@ -1,0 +1,27 @@
+1:"$Sreact.fragment"
+3:I[97367,["/_next/static/chunks/1z7fd6k8tgbnu.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/1z7fd6k8tgbnu.js"],"ViewportBoundary"]
+9:I[97367,["/_next/static/chunks/1z7fd6k8tgbnu.js"],"MetadataBoundary"]
+b:I[39756,["/_next/static/chunks/1z7fd6k8tgbnu.js"],"default"]
+c:I[37457,["/_next/static/chunks/1z7fd6k8tgbnu.js"],"default"]
+10:I[97765,["/_next/static/chunks/1z7fd6k8tgbnu.js","/_next/static/chunks/3b5su1ziqfp0l.js","/_next/static/chunks/047xreez3amjl.js"],"NavigationMemory"]
+11:I[22016,["/_next/static/chunks/1z7fd6k8tgbnu.js","/_next/static/chunks/3b5su1ziqfp0l.js","/_next/static/chunks/047xreez3amjl.js"],""]
+12:I[69965,["/_next/static/chunks/1z7fd6k8tgbnu.js"],"MainNavigation"]
+13:I[58298,["/_next/static/chunks/1z7fd6k8tgbnu.js","/_next/static/chunks/3jkk4eqtm20z5.js"],"default"]
+:HL["/_next/static/chunks/013b5rihjpzq_.css","style"]
+7:X
+e:X
+e:C
+0:{"buildId":"1GBXKP0xBF_lESBY2HOgP","data":[{"rsc":["$","$1","c",{"children":["$L2",[["$","script","script-0",{"src":"/_next/static/chunks/3b5su1ziqfp0l.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/047xreez3amjl.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Add book — Still"}],["$","meta","1",{"name":"description","content":"A personal collection of films, pages, and passing moments."}]]}]}]}],null]}],"isPartial":"$@a","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$7","varyParams":"$e"},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@f","staleTime":"$7","varyParams":"$e"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/013b5rihjpzq_.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/1z7fd6k8tgbnu.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","$L10",null,{}],["$","div",null,{"className":"site-shell","children":[["$","header",null,{"className":"site-header","children":[["$","$L11",null,{"href":"/movies","className":"wordmark","aria-label":"Still archive home","children":["still",["$","span",null,{"className":"wordmark-dot","children":"."}]]}],["$","span",null,{"className":"site-description","children":"A PERSONAL ARCHIVE"}],["$","$L12",null,{}]]}],["$","main",null,{"id":"main","children":["$","$Lb",null,{"parallelRouterKey":"children","error":"$13","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/3jkk4eqtm20z5.js","async":true}]],"template":["$","$Lc",null,{}],"notFound":[["$","div",null,{"className":"empty-state","children":[["$","p",null,{"children":"This page isn’t in the archive."}],["$","$L11",null,{"href":"/movies","children":"Return to Movies"}]]}],[]]}]}],["$","footer",null,{"className":"site-footer","children":[["$","span",null,{"children":"Still. A collection of things that stay."}],["$","span",null,{"children":"WATCHED, READ & REMEMBERED"}]]}]]}]]}]}]]}],"isPartial":"$@14","staleTime":"$7","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+2:E{"digest":"NEXT_HTTP_ERROR_FALLBACK;404"}
+5:null
+7:300
+16:true
+7:C
+15:0
+a:"$undefined"
+d:"$undefined"
+f:"$undefined"
+14:"$undefined"
+6:"$undefined"
