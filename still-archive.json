@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 7,
   "series": [
     {
       "title": "Suits",
@@ -2315,6 +2315,9 @@
     }
   ],
   "books": [],
+  "photos": [],
+  "photoGroups": [],
+  "trips": [],
   "movies": [
     {
       "title": "The Best Offer",
